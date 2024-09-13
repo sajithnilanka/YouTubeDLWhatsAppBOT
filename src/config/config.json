@@ -4,7 +4,7 @@
         "mp3": "youtubedl",
         "mp4": "youtubedl"
     },
-    "prefix": "!",
+    "prefix": ".",
     "timezone": "Asia/Jakarta",
     "groups": false
 }
